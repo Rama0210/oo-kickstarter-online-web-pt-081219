@@ -7,3 +7,5 @@ class Project
   end
 end
 
+def add_backer(backer)
+  
