@@ -1,2 +1,4 @@
 class Project
-  attr_accessor :
+  attr_accessor :backers
+  
+  
